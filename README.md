@@ -1,7 +1,7 @@
 # IsExtracellular
 The IsExtracellular Python script reads a TSV file of peptide data, maps post-translational modifications to their positions in protein sequences, and determines their subcellular location (extracellular or not) using UniProt topology data. It also flags proteins in the Wollscheid surfaceome list and saves annotated results as an Excel file.
 
-# Post Translational Modification Data Analysis Script version 1
+# Post Translational Modification Data Analysis Script (version 1.0)
 
 ## Overview
 This script processes peptide data from an Excel file, checks extracellular domain data via
